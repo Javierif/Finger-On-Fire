@@ -8,13 +8,23 @@ Así pues, prepara una bolsa de hielo, por que Finger on Fire.... ¡Ha llegado!
 
 Caracteristicas:
 
--Sistema de logros.
--Sistema de multiplayer.
--Multiples escenarios!
--Modo Arcade con historia.
--Modo Clásico al estilo shooting watch.
--Cientos de monstruos diferentes.
--Jefes finales en cada escenario diferente.
--Modo para niños.
+* Sistema de logros.
+* Sistema de multiplayer.
+* Multiples escenarios!
+* Modo Arcade con historia.
+* Modo Clásico al estilo shooting watch.
+* Cientos de monstruos diferentes.
+* Jefes finales en cada escenario diferente.
+* Modo para niños.
 
 [![Finger on Fire video](https://github.com/Javierif/Finger-On-Fire/blob/master/Market.png?raw=true)](https://www.youtube.com/watch?v=48DjwWtUVD4)
+
+![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/1.png?raw=true)
+![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/2.png?raw=true)
+![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/3.png?raw=true)
+![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/4.png?raw=true)
+![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/gamecircle.png?raw=true)
+![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/getjar.png?raw=true)
+![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/image-slider-2.png?raw=true)
+![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/services.png?raw=true)
+![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/t1.png)
