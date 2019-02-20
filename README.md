@@ -17,7 +17,10 @@ Caracteristicas:
 * Jefes finales en cada escenario diferente.
 * Modo para niños.
 
+# Video
 [![Finger on Fire video](https://github.com/Javierif/Finger-On-Fire/blob/master/Market.png?raw=true)](https://www.youtube.com/watch?v=48DjwWtUVD4)
+
+# Imágenes
 
 ![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/1.png?raw=true)
 ![alt text](https://github.com/Javierif/Finger-On-Fire/blob/master/2.png?raw=true)
