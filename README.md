@@ -1,5 +1,5 @@
 # Finger-On-Fire
-Juego de Android creado en 2015
+Juego de Android creado en 2013
 
 Finger on Fire (FoF) es un divertido juego en el que tendrás que noquear a diferentes personajes en el menor tiempo posible. Consigue tantas estrellas como puedas batiendo el record en cada uno de los niveles, hasta llegar al último y terrorífico escenario. 
 
