@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Finger on Fire</string>
+    <string name="Classic_1p" translatable="false">Appuyez jusqu'a ce que ça éclate!</string>
+    <string name="Contador" translatable="false">30</string>
+    <string name="record" translatable="false">Nouveau record!</string>
+    <string name="name" translatable="false">Introduit ton prénom:</string>
+    <string name="Mrecord" translatable="false">Joueur  </string>
+    <string name="pulsaciones" translatable="false">  Pulsations</string>
+    <string name="segundos" translatable="false">  Secondes</string>
+    <string name="Nivel" translatable="false">Niveau  </string>
+    <string name="empate" translatable="false">Match nul!</string>
+    <string name="comenzar" translatable="false">Commencez!!!</string>
+    <string name="intro1" translatable="false">¡Nos appels ont été écoutés!\nAidez nous, puissant doigt, à sauver\nle bois des animaux corrompus \nqui essayent de détruire notre maison.</string>	
+ 	<string name="intro2" translatable="false">¡C'est ton final! Tu ne pourras pas passer. \nPrie tout ce que tu saches, tu vas en \navoir besoin. ¡jajajaja!. </string>
+	<string name="intro3" translatable="false">Merci, mais il faut se dépécher,\nla corruption s'étend vers la mer.\n¡Dépéche toi!¡Il ne faut pas perdre\ndu temps!.</string>
+	<string name="intro4" translatable="false">Tu peux avoir vaicu Sachiel,\nmais tu ne feras pas de même aver\nmoi. Bientôt tu n'auras pas de doigt\npour lutter.</string>
+	<string name="intro5" translatable="false">Merci a nouveau... pour avoir vaicu les \ngardiens. ¡Maintenant le monde entier \nsera mien! Bwajajajajaja.</string>
+	<string name="intro6" translatable="false">C'est magnifique, tu as réussi à arriver jusque moi. \nJ'espère que tu aies de l'eau.... \n¡Puisque je vais transformer tes doigts en cendres!.</string>
+	<string name="intro7" translatable="false">Ce n'est pas fini. L'obscurité vit dans le coeur de tout le monde, et lorsque tu y attendras le moins... je serais là a nouveau.</string>
+    <string name="partidas" translatable="false">Matchs gagnés</string>
+    <string name="selecciona" translatable="false">Choisis le niveau</string>
+    <string name="mensaje" translatable="false">Appuye le plus rapidement</string>
+    <string name="mensaje2" translatable="false">que tu peux!!</string>
+    <string name="tardado" translatable="false">TEMPS:</string>
+    <string name="tiempoRecord" translatable="false">TEMPS RECORD:</string>
+    <string name="verRecord" translatable="false">Records</string>
+    <string name="reintentar" translatable="false">Éssayer à nouveau</string>
+    <string name="siguiente" translatable="false">Suivant</string>
+    <string name="conseguido" translatable="false">Tu as réussi!</string>
+    <string name="partiasGanadas" translatable="false">MATCHS GAGNÉS:</string>
+    <string name="infoM" translatable="false">Joueur 2 peut utiliser le</string>
+    <string name="infoM2" translatable="false">bouton menu</string>
+    <string name="infoM3" translatable="false">si le portable n'a pas de multitouch!</string>
+    <string name="cargando">Charger...</string>
+    <string name="perder" >Tu as perdu!!</string>
+    <string name="nivel">NIVEAU </string>
+    <string name="salida">¿Tu as aimé le jeu? S'il te plait, vote et fait-nous savoir ce que tu penses pour nous aider: </string>
+    <string name="votar">Voter</string>
+    <string name="salir">Sortir</string>
+</resources>
