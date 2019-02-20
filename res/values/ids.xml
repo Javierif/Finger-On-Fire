@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">335620819777</string>
+  <string name="achievement_ola_k_ase">CgkIwZa9pOIJEAIQAQ</string>
+  <string name="achievement_not_too_smelly">CgkIwZa9pOIJEAIQAg</string>
+  <string name="achievement_must_improve">CgkIwZa9pOIJEAIQAw</string>
+  <string name="achievement_not_bad....">CgkIwZa9pOIJEAIQBA</string>
+  <string name="achievement_80_aaaaaaawww_yeeeeaaaaah">CgkIwZa9pOIJEAIQBg</string>
+  <string name="achievement_100_close_enought.">CgkIwZa9pOIJEAIQBw</string>
+  <string name="achievement_120_im_so_op">CgkIwZa9pOIJEAIQCA</string>
+  <string name="achievement_jajajaja_119_lol">CgkIwZa9pOIJEAIQCQ</string>
+  <string name="achievement_destroyer">CgkIwZa9pOIJEAIQCg</string>
+  <string name="achievement_arcade_finished">CgkIwZa9pOIJEAIQCw</string>
+  <string name="achievement_vanquished">CgkIwZa9pOIJEAIQDA</string>
+  <string name="achievement_kind_of_a_big_deal">CgkIwZa9pOIJEAIQDQ</string>
+  <string name="achievement_im_very_important">CgkIwZa9pOIJEAIQDg</string>
+  <string name="achievement_god_walking_amongst_mere_mortals">CgkIwZa9pOIJEAIQDw</string>
+  <string name="leaderboard_the_best_score">CgkIwZa9pOIJEAIQBQ</string>
+</resources>

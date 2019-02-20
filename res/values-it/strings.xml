@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Classic_1p">premi il pulsante finchè non esplode!</string>
+    <string name="Contador">30</string>
+    <string name="record">Nuovo Record!</string>
+    <string name="name">il tuo nome:</string>
+    <string name="Mrecord">giocatore  </string>
+    <string name="pulsaciones">  Pulsaciones</string>
+    <string name="segundos">  Secondi</string>
+    <string name="Nivel">Livello  </string>
+    <string name="empate">Pareggio!</string>
+    <string name="comenzar">Ora!!!</string>
+    <string name="intro1">Le nostre preguiere sono state ascoltate! Aiutaci \npotente dito a salvare il bosco dagli animali corrotti \nche provano a distruggere la nostra dimora</string>	
+ 	<string name="intro2">Questa è la tua fine! Non potrai passare, \nprega quanto vuoi, tanto non ti \nservirà a nulla. Muahahah!</string>
+	<string name="intro3">Grazie, ma dobbiamo sbrigarci, la corruzione \nsi espande verso il mare. Presto! non \nhabbiamo un minuto da perdere!</string>
+	<string name="intro4">Puede que hayas derrotado a Sachiel,\npero conmigo no correrás la misma\nsuerte. Pronto no tendrás dedo\npara luchar.</string>
+	<string name="intro5">Grazie ancora... per sconfiggere i guardiani. \nAdesso il mondo intero sarà \nsotto il mio comando! Muahahah.</string>
+	<string name="intro6">Vedo che sei arrivato fino a mè... \nperfetto. Ma spero tu abbia dell acqua, \nperché ti farò bruciare le dita!</string>
+	<string name="intro7">Non finisce qui... La oscurità si \nnasconde nei cuori di tutti. E non appena \nabbasserai la guardia... io sarò lì</string>
+    <string name="partidas">Partite vinte</string>
+    <string name="selecciona">Seleziona Livello</string>
+    <string name="mensaje">Clicca più rapido</string>
+    <string name="mensaje2">che puoi!!</string>
+    <string name="tardado">TEMPO IMPIEGATO:</string>
+    <string name="tiempoRecord">TEMPO IMPIEFATO:</string>
+    <string name="verRecord">Records</string>
+    <string name="reintentar">Rivincita</string>
+    <string name="siguiente">Prossimo</string>
+    <string name="conseguido">Celai fatta!</string>
+    <string name="partiasGanadas">PARTITE VINTE:</string>
+    <string name="infoM">Giocatore 2 può anche usare</string>
+    <string name="infoM2">il bottone del menù del cellulare</string>
+    <string name="infoM3">per cellulari senzamultitouch! </string>
+    <string name="cargando">Caricando</string>
+    <string name="perder">Hai perso!!</string>
+    <string name="nivel">NIVEL </string>
+    <string name="salida">Ti è piaciuta l applicazione? Per favore, vota e commenta l applicazione per aiutarci: </string>
+    <string name="votar">Votare</string>
+    <string name="salir">Uscire</string>
+	<string name="sentimos">Chiediamo scusa per gli annunci pubblicitari ingombranti, ma grazie ad essi possiamo continuare a creare più giochi.</string>
+    <string name="playservices">Collegare per accedere al sistema di realizzazione! dove si otterrà emblemi in diverse modalità di gioco. È anche possibile competere nella classifica globale in modo classico! e molte altre cose! collega ora!</string>
+    <string name="facebookbien">Ti sei connesso correttamente.</string>
+    <string name="facebookmal">C è stato un errore nel Menù principale</string>
+    <string name="conectar">Connetersi</string>
+    <string name="gracias">Mille grazie per aiutarci</string>
+    
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Finger on Fire</string>
+    <string name="Classic_1p" >Presiona hasta que lo revientes!</string>
+    <string name="Contador" >30</string>
+    <string name="record" >Nuevo record!</string>
+    <string name="name" >Introduce tu nombre:</string>
+    <string name="Mrecord" >Jugador  </string>
+    <string name="pulsaciones" >  Pulsaciones</string>
+    <string name="segundos" >  Segundos</string>
+    <string name="Nivel" >Nivel  </string>
+    <string name="empate" >Empate!</string>
+    <string name="comenzar" >Ya!!!</string>
+    <string name="intro1" >¡Nuestras súplicas han sido escuchadas!\nayúdanos, poderoso dedo, a salvar\nel bosque de los animales corruptos \nque tratan de destruír nuestro hogar.</string>	
+ 	<string name="intro2" >¡Este es tu final! No podrás pasar. \nReza todo lo que sepas, pues vas a \nnecesitar mucha ayuda. ¡jajajaja!. </string>
+	<string name="intro3" >Gracias, pero hay que darse prisa,\nla corrupción se expande haciael mar.\n¡Rápido!¡No hay un segundo que\nperder!.</string>
+	<string name="intro4" >Puede que hayas derrotado a Sachiel,\npero conmigo no correrás la misma\nsuerte. Pronto no tendrás dedo\npara luchar.</string>
+	<string name="intro5" >Gracias de nuevo... por derrotar a los \nguardianes. ¡Ahora el mundo entero \nestará bajo mi mando! Bwajajajajaja.</string>
+	<string name="intro6" >Veo que has llegado hasta mí, magnífico. \nPero espero tengas agua cerca... \n¡Pues reduciré tus dedos a cenizas!.</string>
+	<string name="intro7" >Esto no ha terminado. La oscuridad reside en el corazón de todos. Y en cuanto bajes la guardia... allí estaré.</string>
+    <string name="partidas" >Partidas ganadas</string>
+    <string name="selecciona" >Selecciona Nivel</string>
+    <string name="mensaje" >Pulsa tan rápido</string>
+    <string name="mensaje2" >como puedas!!</string>
+    <string name="tardado" >TIEMPO TARDADO:</string>
+    <string name="tiempoRecord" >TIEMPO RECORD:</string>
+    <string name="verRecord" >Records</string>
+    <string name="reintentar" >Reintentar</string>
+    <string name="siguiente" >Siguiente</string>
+    <string name="conseguido" >Lo has conseguido!</string>
+    <string name="partiasGanadas" >PARTIDAS GANADAS:</string>
+    <string name="infoM">Jugador 2 puede también usar</string>
+    <string name="infoM2">el botón menú del movil</string>
+    <string name="infoM3">para moviles sin multitouch!</string>
+    <string name="cargando">Cargando</string>
+    <string name="perder" >Has perdido!!</string>
+    <string name="nivel">NIVEL </string>
+    <string name="salida">¿Te ha gustado la aplicación? Porfavor vota y opina sobre la aplicación para ayudarnos: </string>
+    <string name="votar">Votar</string>
+    <string name="salir">Salir</string>
+    <string name="sentimos">Sentimos las molestias de los anuncios, pero gracias a ellos podemos seguir creando mas juegos.</string>
+    <string name="playservices">Conecta para acceder al sistema de logros! donde conseguirás emblemas en los diferentes modos de juego. También podrás competir en el ranking global de modo clasico! y muchas mas cosas! conecta ya!!</string>
+    <string name="facebookbien">Has conectado correctamente.</string>
+    <string name="facebookmal">Ha ocurrido un error al intentar iniciar sesión.</string>
+    <string name="conectar">Conectar</string>
+    <string name="gracias">Muchas gracias por ayudarnos.</string>
+    <string name="facebook1">Hey mirad la puntuación que he conseguido </string>
+    
+</resources>

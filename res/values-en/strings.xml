@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Classic_1p" >press until burst!</string>
+    <string name="Contador" >30</string>
+    <string name="record" >New Record!</string>
+    <string name="name" >Introduce your name:</string>
+    <string name="Mrecord" >Player  </string>
+    <string name="pulsaciones" >  Hits</string>
+    <string name="segundos" >  Seconds</string>
+    <string name="Nivel" >Level </string>
+    <string name="empate" >Draw!</string>
+    <string name="comenzar" >Go!!</string>
+	<string name="intro1" >Our pledges have been heard!\nhelp us, powerfull finger, to save\nthe forest from corrupted the animals \nwho try to destroy our home</string>
+	<string name="intro2" >This is your end! You will not pass. \nPray all you can because \nyou will need help. ¡Hahahaha!. </string>
+	<string name="intro3" >Thanks, but we need to hurry up,\nlthe Corruption its spreading to sea.\n¡Hurry! There is no time\nto lose!.</string>
+	<string name="intro4" >You may have deafeted Sachiel,\n but you wont be so lucky \n with me. Soon you will have no finger\n to fight.</string>
+	<string name="intro5" >Thank you again... for defeating the \nguardians. ¡Now, the whole world \nwill be under my control! Bwahahahahaha.</string>
+	<string name="intro6" >In the end you came to me, awesome. \nBut I hope you brought some water \nbecause I will reduce your finger to ashes!.</string>
+	<string name="intro7" >This is not over yet. Darkness live in everybodys heart. And when you let your guard down.... I will be there waiting.</string>
+	<string name="partidas" >Games won</string>
+    <string name="selecciona" >Level Select</string>
+    <string name="mensaje" >Hit as fast</string>
+    <string name="mensaje2" >as you can!!</string>
+    <string name="tardado" >TIME:</string>
+    <string name="tiempoRecord" >BEST TIME:</string>
+    <string name="verRecord" >Records</string>
+    <string name="reintentar" >Retry</string>
+    <string name="siguiente" >Next</string>
+    <string name="conseguido" >You did it!</string>
+    <string name="partiasGanadas" >GAMES WON:</string>
+    <string name="infoM" >Player 2 can use</string>
+    <string name="infoM2" >menu button for</string>
+    <string name="infoM3" >devices without multitouch!</string>
+    <string name="cargando">Loading</string>
+    <string name="perder" >You lose!!</string>
+    <string name="nivel">LEVEL </string>
+    <string name="salida">Do you like the app? Please, vote and post about our game to help us: </string>
+    <string name="votar">Vote</string>
+    <string name="salir">Exit</string>
+    <string name="sentimos">Sorry for the inconvenience of the ads, but thanks to them we can continue to create more games.</string>
+    <string name="playservices">Connect to access the achievement system! where you will get emblems in different game modes. You can also compete in the global ranking so classic! and many more things! connects it now!</string>
+    <string name="facebookbien">You have successfully connected.</string>
+    <string name="facebookmal">Failed login attempt.</string>
+    <string name="conectar">connect</string>
+    <string name="gracias">Thank you very much for helping.</string>
+</resources>

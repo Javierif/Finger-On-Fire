@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Classic_1p" >Appuyez jusqu a ce que ça éclate!</string>
+    <string name="Contador" >30</string>
+    <string name="record" >Nouveau record!</string>
+    <string name="name" >Introduit ton prénom:</string>
+    <string name="Mrecord" >Joueur  </string>
+    <string name="pulsaciones" >  Pulsations</string>
+    <string name="segundos" >  Secondes</string>
+    <string name="Nivel" >Niveau  </string>
+    <string name="empate" >Match nul!</string>
+    <string name="comenzar" >Commencez!!!</string>
+    <string name="intro1" >¡Nos appels ont été écoutés!\nAidez nous, puissant doigt, à sauver\nle bois des animaux corrompus \nqui essayent de détruire notre maison.</string>	
+ 	<string name="intro2" >¡C est ton final! Tu ne pourras pas passer. \nPrie tout ce que tu saches, tu vas en \navoir besoin. ¡jajajaja!. </string>
+	<string name="intro3" >Merci, mais il faut se dépécher,\nla corruption s étend vers la mer.\n¡Dépéche toi!¡Il ne faut pas perdre\ndu temps!.</string>
+	<string name="intro4" >Tu peux avoir vaicu Sachiel,\nmais tu ne feras pas de même aver\nmoi. Bientôt tu n auras pas de doigt\npour lutter.</string>
+	<string name="intro5" >Merci a nouveau... pour avoir vaicu les \ngardiens. ¡Maintenant le monde entier \nsera mien! Bwajajajajaja.</string>
+	<string name="intro6" >C est magnifique, tu as réussi à arriver jusque moi. \nJ espère que tu aies de l eau.... \n¡Puisque je vais transformer tes doigts en cendres!.</string>
+	<string name="intro7" >Ce n est pas fini. L obscurité vit dans le coeur de tout le monde, et lorsque tu y attendras le moins... je serais là a nouveau.</string>
+    <string name="partidas" >Matchs gagnés</string>
+    <string name="selecciona" >Choisis le niveau</string>
+    <string name="mensaje" >Appuye le plus rapidement</string>
+    <string name="mensaje2" >que tu peux!!</string>
+    <string name="tardado" >TEMPS:</string>
+    <string name="tiempoRecord" >TEMPS RECORD:</string>
+    <string name="verRecord" >Records</string>
+    <string name="reintentar" >Éssayer à nouveau</string>
+    <string name="siguiente" >Suivant</string>
+    <string name="conseguido" >Tu as réussi!</string>
+    <string name="partiasGanadas" >MATCHS GAGNÉS:</string>
+    <string name="infoM" >Joueur 2 peut utiliser le</string>
+    <string name="infoM2" >bouton menu</string>
+    <string name="infoM3" >si le portable n a pas de multitouch!</string>
+    <string name="cargando">Charger...</string>
+    <string name="perder" >Tu as perdu!!</string>
+    <string name="nivel">NIVEAU </string>
+    <string name="salida">¿Tu as aimé le jeu? S il te plait, vote et fait-nous savoir ce que tu penses pour nous aider: </string>
+    <string name="votar">Voter</string>
+    <string name="salir">Sortir</string>
+	<string name="sentimos">Annonces d inconfort entimos, mais grâce à eux que nous pouvons continuer à créer plus de jeux.</string>
+    <string name="playservices">Connectez-vous à accéder au système de réalisation! où vous aurez emblèmes dans les différents modes de jeux. Vous pouvez aussi participer au classement mondial si classique! et bien d autres choses! il se connecte maintenant!</string>
+    <string name="facebookbien">Vous êtes connecté avec succès.</string>
+    <string name="facebookmal">Échec de la tentative de connexion.</string>
+    <string name="conectar">Connectez</string>
+    <string name="gracias">Merci beaucoup pour aider.</string>
+</resources>
